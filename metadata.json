@@ -1,0 +1,5 @@
+{
+  "name": "Catálogo de Imágenes con IA",
+  "description": "Una aplicación para redimensionar y mejorar imágenes de productos para catálogos utilizando la API de Gemini.",
+  "requestFramePermissions": []
+}
